@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aashinaarora
 - 👀 I’m interested in Java and Python Development.
-- 🌱 I’m currently working in TCS as a Java Developer.
-- 💞️ I’m pursuing Master's Degree in Computer Applications.
+- 🌱 I’m currently working in TCS as Developer.
+- 💞️ I have Master's Degree in Computer Applications.
 - 📫 You can reach me at aashina.arora.14@gmail.com
 
 <!---
